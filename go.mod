@@ -1,6 +1,6 @@
 module github.com/gravitl/netclient
 
-go 1.24.0
+go 1.24
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
